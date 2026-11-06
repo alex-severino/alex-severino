@@ -12,6 +12,7 @@ I work at the intersection of product, design and engineering. I turn problems i
 | **Studio Betonika** | [studiobetonika.com](https://studiobetonika.com) | [Website repository](https://github.com/alex-severino/studiobetonika) | Studio website, including a custom video experience for Dvor |
 | **Digitangels** | [digitangels.com](https://digitangels.com) | [Repository](https://github.com/alex-severino/digitangels) | Next.js website for a design advisory |
 | **Designwise** | [digitangels.com/designwise](https://digitangels.com/designwise) | [Digitangels repository](https://github.com/alex-severino/digitangels) | Design education experience within the same platform |
+| **Not All Beige** | [notallbeige.com](https://notallbeige.com) | [Repository](https://github.com/alex-severino/notallbeige) | Next.js website for a London interior design practice, with portfolio, services and a studio paint palette |
 
 ## Product work
 
