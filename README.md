@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-**Technical Product Lead · London**
+**AI Native Senior Technical Product Manager | B2B, B2C, Platforms, APIs, AI & AI-enabled Products · London**
 
 I work at the intersection of product, design and engineering. I turn problems into working software, from discovery and prototyping through delivery, using AI-assisted development where it helps.
 
