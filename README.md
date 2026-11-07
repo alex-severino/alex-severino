@@ -13,6 +13,7 @@ I work at the intersection of product, design and engineering. I turn problems i
 | **Digitangels** | [digitangels.com](https://digitangels.com) | [Repository](https://github.com/alex-severino/digitangels) | Next.js website for a design advisory |
 | **Designwise** | [digitangels.com/designwise](https://digitangels.com/designwise) | [Digitangels repository](https://github.com/alex-severino/digitangels) | Design education experience within the same platform |
 | **Not All Beige** | [notallbeige.com](https://notallbeige.com) | [Repository](https://github.com/alex-severino/notallbeige) | Next.js website for a London interior design practice, with portfolio, services and a studio paint palette |
+| **Giclée Club** | [gicleeclub.com](https://www.gicleeclub.com) | [Repository](https://github.com/alex-severino/gicleeclub) | Next.js website for a fine-art giclée printing studio, with papers, prices, ICC profiles, file-preparation guides and a contact API |
 
 ## Product work
 
