@@ -25,7 +25,7 @@ I work at the intersection of product, design and engineering. I turn problems i
 ## How I work
 
 - **Hands-on technical product delivery:** define requirements, build prototypes, investigate constraints, test assumptions and ship.
-- **AI-assisted coding workflows:** use Claude Code and Cursor for implementation, iteration and debugging, while remaining responsible for outcomes.
+- **AI-assisted coding workflows:** use Codex, Claude Code and Cursor for implementation, iteration and debugging, while remaining responsible for outcomes.
 - **Product, design and commercial thinking:** connect user needs with technical feasibility.
 
 [LinkedIn](https://www.linkedin.com/in/alexseverinowork/) · [Studio Betonika](https://studiobetonika.com)
