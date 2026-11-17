@@ -35,7 +35,8 @@ Designed, built and tested a **tool-calling AI preflight agent** using live Open
 
 *The AI agent is currently a protected feature preview; the public preflight tool remains available independently.*
 
-**[Live product](https://www.gicleeclub.com) · [Source code](https://github.com/alex-severino/gicleeclub)**
+**[Giclée Club website](https://www.gicleeclub.com)**  
+*Commercial platform work — not an open-source portfolio project.*
 
 ## 💻 More things I've built
 
