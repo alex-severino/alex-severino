@@ -31,7 +31,9 @@ A technology-driven fine art printing platform combining digital workflows, artw
 
 Built a browser-based preflight tool that analyses artwork metadata, checks technical print requirements and calculates compatible print sizes.
 
-**Next challenge:** introducing agentic AI to investigate print-readiness issues, recommend solutions and support human approval.
+Designed, built and tested a **tool-calling AI preflight agent** using live OpenAI APIs. It investigates print-readiness issues through deterministic tools, explains evidence-backed recommendations and preserves human review before production.
+
+*The AI agent is currently a protected feature preview; the public preflight tool remains available independently.*
 
 **[Live product](https://www.gicleeclub.com) · [Source code](https://github.com/alex-severino/gicleeclub)**
 
@@ -56,13 +58,13 @@ Led zero-to-one product development, personally implementing and shipping Dvor t
 Led product direction for an EV-charging platform spanning mobile applications, operational systems and third-party OCPI API integrations.
 
 **Giclée Club — Product Advisor**  
-Supporting product strategy, AI-powered workflows and the evolution of the digital platform.
+Shaping product strategy while personally building and testing a working AI preflight agent integrating live LLM APIs, deterministic checks and human-review safeguards.
 
 ## ⚙️ How I build
 
 - **Technical product thinking:** connect customer problems, commercial outcomes and engineering trade-offs.
 - **Hands-on development:** work across TypeScript, React, Next.js, Unity and C#.
-- **AI-native workflows:** use Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
+- **AI-native workflows:** use Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration; build tool-calling agents with live LLM APIs and deterministic guardrails.
 - **Platforms and integrations:** experience with REST APIs, SDKs, OpenRTB, OCPI, AWS and data infrastructure.
 - **Product ownership:** take ideas from discovery and validation through architecture, implementation and launch.
 
