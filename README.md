@@ -63,22 +63,20 @@ Shaping product strategy while personally building and testing a working AI pref
 
 ## ⚙️ Technical stack & how I build
 
-**Current hands-on product engineering**
-- **Web & applications:** TypeScript, JavaScript, React, Next.js, Node.js, HTML/CSS and Tailwind CSS.
+**Software engineering**
+- **Frontend:** TypeScript, JavaScript, React, Next.js, Angular, Vue, Redux, HTML5, CSS3 and Tailwind CSS.
+- **Backend & APIs:** Node.js, Express, Koa, GraphQL/Apollo, REST APIs, WebSockets and Sequelize.
+- **Data & storage:** SQL, PostgreSQL, MongoDB, Firebase, Redis and Elasticsearch.
 - **Games & interactive products:** Unity and C# — from prototyping and gameplay systems through testing and commercial release.
-- **AI & agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards; Claude Code, Codex and Cursor.
-- **Developer workflow:** Git/GitHub, npm, automated tests, deployment tooling and Vercel.
+- **Cloud & delivery:** AWS, Vercel, Git/GitHub, npm, automated tests and deployment tooling.
 
-**Platforms, integrations & analytics**
-- **APIs & advertising technology:** REST APIs, partner SDK integrations, OpenRTB bidding and OCPI.
-- **Infrastructure & data systems:** AWS, Redis and Elasticsearch; Looker and Tableau for data-informed product decisions.
+**AI & technical products**
+- **AI agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards.
+- **AI-native development:** Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
+- **Platform integrations:** partner SDKs, OpenRTB bidding and OCPI.
+- **Analytics:** Looker and Tableau to support data-informed product decisions.
 
-**Earlier full-stack development experience**
-- **Frontend:** Angular, Vue and Redux.
-- **Backend & databases:** Express, Koa, Sequelize, GraphQL/Apollo, WebSockets, Firebase, SQL/PostgreSQL and MongoDB.
-- **Other tools:** Heroku, Metabase, Jira and Trello.
-
-**Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery without confusing product leadership with engineering ownership.
+**Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery while respecting engineering ownership.
 
 I believe the most valuable product managers understand both **why something should exist and what it takes to build it**.
 
