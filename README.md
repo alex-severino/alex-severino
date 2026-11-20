@@ -61,13 +61,24 @@ Led product direction for an EV-charging platform spanning mobile applications, 
 **Giclée Club — Product Advisor**  
 Shaping product strategy while personally building and testing a working AI preflight agent integrating live LLM APIs, deterministic checks and human-review safeguards.
 
-## ⚙️ How I build
+## ⚙️ Technical stack & how I build
 
-- **Technical product thinking:** connect customer problems, commercial outcomes and engineering trade-offs.
-- **Hands-on development:** work across TypeScript, React, Next.js, Unity and C#.
-- **AI-native workflows:** use Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration; build tool-calling agents with live LLM APIs and deterministic guardrails.
-- **Platforms and integrations:** experience with REST APIs, SDKs, OpenRTB, OCPI, AWS and data infrastructure.
-- **Product ownership:** take ideas from discovery and validation through architecture, implementation and launch.
+**Current hands-on product engineering**
+- **Web & applications:** TypeScript, JavaScript, React, Next.js, Node.js, HTML/CSS and Tailwind CSS.
+- **Games & interactive products:** Unity and C# — from prototyping and gameplay systems through testing and commercial release.
+- **AI & agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards; Claude Code, Codex and Cursor.
+- **Developer workflow:** Git/GitHub, npm, automated tests, deployment tooling and Vercel.
+
+**Platforms, integrations & analytics**
+- **APIs & advertising technology:** REST APIs, partner SDK integrations, OpenRTB bidding and OCPI.
+- **Infrastructure & data systems:** AWS, Redis and Elasticsearch; Looker and Tableau for data-informed product decisions.
+
+**Earlier full-stack development experience**
+- **Frontend:** Angular, Vue and Redux.
+- **Backend & databases:** Express, Koa, Sequelize, GraphQL/Apollo, WebSockets, Firebase, SQL/PostgreSQL and MongoDB.
+- **Other tools:** Heroku, Metabase, Jira and Trello.
+
+**Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery without confusing product leadership with engineering ownership.
 
 I believe the most valuable product managers understand both **why something should exist and what it takes to build it**.
 
