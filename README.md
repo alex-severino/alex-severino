@@ -67,17 +67,17 @@ Shaping product strategy while personally building and testing a working AI pref
 - **Modern web development:** TypeScript, JavaScript, React, Next.js, Node.js, HTML5, CSS3 and Tailwind CSS.
 - **AI agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards.
 - **AI-native development:** Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
-- **Games & interactive products:** Unity and C# — from prototyping and gameplay systems through testing and commercial release.
+- **Games & interactive products:** Unity, C# and Firebase integration — from prototyping and gameplay systems through testing and commercial release.
 - **Development & delivery:** Git, GitHub, npm, Vercel, automated testing and deployment workflows.
 
 **Platforms, data & analytics**
 - **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
 - **Infrastructure & data systems:** AWS, SQL, PostgreSQL, MongoDB, Redis and Elasticsearch.
-- **Analytics & decision support:** Looker and Tableau for data analysis, reporting, product performance measurement and data-informed product decisions.
+- **Analytics & decision support:** Metabase, Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
 
 **Earlier full-stack engineering experience**
-- **Frontend:** Angular, Vue and Redux.
-- **Backend & APIs:** Express, Koa, Sequelize, GraphQL/Apollo, WebSockets and Firebase.
+- **Frontend:** Angular and Vue.
+- **Backend & APIs:** Express, Koa, Sequelize, GraphQL/Apollo and WebSockets.
 - **Deployment:** Heroku.
 
 **Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery while respecting engineering ownership.
