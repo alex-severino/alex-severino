@@ -64,11 +64,11 @@ Shaping product strategy while personally building and testing a working AI pref
 ## ⚙️ Technical stack & how I build
 
 **Current hands-on engineering**
-- **Modern web development:** TypeScript, JavaScript, React, Next.js, Node.js, HTML5, CSS3 and Tailwind CSS.
+- **Modern web development:** TypeScript, JavaScript, React, Next.js, Node.js and Tailwind CSS.
 - **AI agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards.
 - **AI-native development:** Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
 - **Games & interactive products:** Unity, C# and Firebase integration — from prototyping and gameplay systems through testing and commercial release.
-- **Development & delivery:** Git, GitHub, npm, Vercel, automated testing and deployment workflows.
+- **Development & delivery:** Git, GitHub, Vercel, automated testing and deployment workflows.
 
 **Platforms, data & analytics**
 - **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
@@ -76,9 +76,7 @@ Shaping product strategy while personally building and testing a working AI pref
 - **Analytics & decision support:** Metabase, Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
 
 **Earlier full-stack engineering experience**
-- **Frontend:** Angular and Vue.
-- **Backend & APIs:** Express, Koa, Sequelize, GraphQL/Apollo and WebSockets.
-- **Deployment:** Heroku.
+Angular, Vue, Node.js/Express, GraphQL and WebSockets.
 
 **Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery while respecting engineering ownership.
 
