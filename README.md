@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-**Senior Technical Product Manager & Product Engineer**  
+**Senior Technical Product Manager | AI, Platforms & Product Engineering**  
 AI-Native Development · Platforms & APIs · 0-to-1 Products · London, UK
 
 I work at the intersection of **product strategy, software engineering and AI**.
@@ -63,18 +63,22 @@ Shaping product strategy while personally building and testing a working AI pref
 
 ## ⚙️ Technical stack & how I build
 
-**Software engineering**
-- **Frontend:** TypeScript, JavaScript, React, Next.js, Angular, Vue, Redux, HTML5, CSS3 and Tailwind CSS.
-- **Backend & APIs:** Node.js, Express, Koa, GraphQL/Apollo, REST APIs, WebSockets and Sequelize.
-- **Data & storage:** SQL, PostgreSQL, MongoDB, Firebase, Redis and Elasticsearch.
-- **Games & interactive products:** Unity and C# — from prototyping and gameplay systems through testing and commercial release.
-- **Cloud & delivery:** AWS, Vercel, Git/GitHub, npm, automated tests and deployment tooling.
-
-**AI & technical products**
+**Current hands-on engineering**
+- **Modern web development:** TypeScript, JavaScript, React, Next.js, Node.js, HTML5, CSS3 and Tailwind CSS.
 - **AI agent engineering:** live OpenAI API integrations, multi-step tool calling, structured outputs, deterministic validation, bounded execution and human-review safeguards.
 - **AI-native development:** Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
-- **Platform integrations:** partner SDKs, OpenRTB bidding and OCPI.
-- **Analytics:** Looker and Tableau to support data-informed product decisions.
+- **Games & interactive products:** Unity and C# — from prototyping and gameplay systems through testing and commercial release.
+- **Development & delivery:** Git, GitHub, npm, Vercel, automated testing and deployment workflows.
+
+**Platforms, data & analytics**
+- **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
+- **Infrastructure & data systems:** AWS, SQL, PostgreSQL, MongoDB, Redis and Elasticsearch.
+- **Analytics & decision support:** Looker and Tableau for data analysis, reporting, product performance measurement and data-informed product decisions.
+
+**Earlier full-stack engineering experience**
+- **Frontend:** Angular, Vue and Redux.
+- **Backend & APIs:** Express, Koa, Sequelize, GraphQL/Apollo, WebSockets and Firebase.
+- **Deployment:** Heroku.
 
 **Product approach:** connect customer problems and commercial outcomes with engineering realities; own discovery, prioritisation and delivery while respecting engineering ownership.
 
