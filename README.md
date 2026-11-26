@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
  
 **Senior Technical Product Manager | AI & 0-to-1 Products | Hands-On Product Builder**  
-AI-Native Development · Platforms & APIs · 0-to-1 Products · London, UK
+AI-Native Development · Platforms & APIs · B2B & B2C · London, UK
  
 I work at the intersection of **product strategy, technology and AI**.
  
