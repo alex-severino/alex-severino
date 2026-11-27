@@ -81,6 +81,5 @@ I believe the most valuable product managers understand both **why something sho
  
 ---
  
-📍 London, UK  
-[LinkedIn](https://www.linkedin.com/in/alexseverinowork/) · [Digitangels](https://digitangels.com) · [Studio Betonika](https://studiobetonika.com) · [Giclée Club](https://www.gicleeclub.com)
+📍 London, UK · [LinkedIn](https://www.linkedin.com/in/alexseverinowork/)
  
