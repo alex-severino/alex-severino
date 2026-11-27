@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
  
 **Senior Technical Product Manager | AI & 0-to-1 Products | Hands-On Product Builder**  
-AI-Native Development · Platforms & APIs · B2B & B2C · London, UK
+Platforms, APIs, Agentic AI & AI-Enabled Products · B2B & B2C · London, UK
  
 I work at the intersection of **product strategy, technology and AI**.
  
@@ -10,6 +10,16 @@ My background spans complex B2B platforms, APIs, SDKs and data-intensive product
 I don't just define what should be built. I prototype, experiment, write code and ship software, using AI agents and AI-assisted development to accelerate the process.
  
 ## 🚀 Featured projects
+
+### Digitangels: product advisory & development
+
+**Product Strategy · Agentic AI · API Integration · Digital Product Development**
+
+Independent brand, design and digital product consultancy. I lead product discovery, commercial validation, technical implementation and delivery, including hands-on development and shipping production software.
+
+Designed, built and tested a **tool-calling AI preflight agent** using live OpenAI APIs, combining deterministic validation, evidence-based recommendations and human-review safeguards.
+
+**[Digitangels website](https://digitangels.com)**
  
 ### 🎮 Dvor: from concept to commercial release
  
@@ -31,10 +41,6 @@ A technology-driven fine art printing platform combining digital workflows, artw
  
 Built a browser-based preflight tool that analyses artwork metadata, checks technical print requirements and calculates compatible print sizes.
  
-Designed, built and tested a **tool-calling AI preflight agent** using live OpenAI APIs. It investigates print-readiness issues through deterministic tools, explains evidence-backed recommendations and preserves human review before production.
- 
-*The AI agent is currently a protected feature preview; the public preflight tool remains available independently.*
- 
 **[Giclée Club website](https://www.gicleeclub.com)**  
 *Commercial platform work, not an open-source portfolio project.*
  
@@ -43,16 +49,16 @@ Designed, built and tested a **tool-calling AI preflight agent** using live Open
 | Project | Description | Links |
 |---|---|---|
 | **Studio Betonika** | Independent game studio website with custom interactive experiences and Dvor trailer integration. | [Website](https://studiobetonika.com) · [Code](https://github.com/alex-severino/studiobetonika) |
-| **Digitangels** | Design transformation and strategic advisory platform, built with Next.js. | [Website](https://digitangels.com) · [Code](https://github.com/alex-severino/digitangels) |
+| **Digitangels** | Website for an independent brand, design and digital product consultancy, built with Next.js. | [Website](https://digitangels.com) · [Code](https://github.com/alex-severino/digitangels) |
 | **Designwise** | Digital design education experience within the Digitangels platform. | [Website](https://digitangels.com/designwise) |
 | **Not All Beige** | Digital presence for a London interior design practice, featuring portfolio, services and a curated colour palette. | [Website](https://notallbeige.com) · [Code](https://github.com/alex-severino/notallbeige) |
  
 ## 🧠 Product leadership
  
-**Giclée Club: Product Advisor (2026 - present)**  
-Shaping product strategy while personally building and testing a working AI preflight agent integrating live LLM APIs, deterministic checks and human-review safeguards.
+**Digitangels: Co-Founder & Product Advisor (2016 - present)**  
+Lead product strategy, discovery, commercial validation, technical implementation and delivery, alongside commercial agreements, partnerships and regulatory compliance.
  
-**Studio Betonika: Founder, Technical Product Manager & Product Builder (2025 - present)**  
+**Studio Betonika: Founder, Technical Product Manager & Product Builder (2025 - 2026)**  
 Led 0-to-1 product development, personally building and shipping Dvor through an AI-assisted development workflow.
  
 **Kwalee: Technical Product Manager (2023 - 2025)**  
@@ -75,7 +81,7 @@ Owned product vision and roadmap for a white-label fine art printing platform, a
 **Platforms, data & analytics**
 - **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
 - **Infrastructure & data systems:** AWS, SQL, PostgreSQL, MongoDB, Redis and Elasticsearch.
-- **Analytics & decision support:** Metabase, Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
+- **Analytics & decision support:** Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
 **Earlier full-stack work (Codaisseur, 2019)**  
 Angular, Vue, Node.js/Express, GraphQL and WebSockets.
  
@@ -86,5 +92,5 @@ I believe the most valuable product managers understand both **why something sho
 ---
  
 📍 London, UK  
-[LinkedIn](https://www.linkedin.com/in/alexseverinowork/) · [Studio Betonika](https://studiobetonika.com) · [Giclée Club](https://www.gicleeclub.com)
+[LinkedIn](https://www.linkedin.com/in/alexseverinowork/) · [Digitangels](https://digitangels.com) · [Studio Betonika](https://studiobetonika.com) · [Giclée Club](https://www.gicleeclub.com)
  
