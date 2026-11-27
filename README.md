@@ -39,7 +39,7 @@ Personally built in Unity/C#, using Claude Code and Cursor to accelerate develop
 |---|---|---|
 | **Studio Betonika** | Independent game studio website with custom interactive experiences and Dvor trailer integration. | [Website](https://studiobetonika.com) · [Code](https://github.com/alex-severino/studiobetonika) |
 | **Digitangels** | Website for an independent brand, design and digital product consultancy, built with Next.js. | [Website](https://digitangels.com) · [Code](https://github.com/alex-severino/digitangels) |
-| **Designwise** | Digital design education experience within the Digitangels platform. | [Website](https://digitangels.com/designwise) |
+| **Designwise** | Digital design education experience within the Digitangels platform. | [Website](https://designwise.digitangels.com) |
 | **Not All Beige** | Digital presence for a London interior design practice, featuring portfolio, services and a curated colour palette. | [Website](https://notallbeige.com) · [Code](https://github.com/alex-severino/notallbeige) |
 | **Giclée Club** | Fine-art printing platform built with Next.js, React and TypeScript, featuring browser-based artwork preflight, metadata validation and compatible print-size calculations. | [Website](https://www.gicleeclub.com) |
  
