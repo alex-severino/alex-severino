@@ -11,7 +11,7 @@ I don't just define what should be built. I prototype, experiment, write code an
  
 ## 🚀 Featured projects
 
-### Digitangels: product advisory & development
+### 🧩 Digitangels: product advisory & development
 
 **Product Strategy · Agentic AI · API Integration · Digital Product Development**
 
@@ -68,10 +68,12 @@ Owned product vision and roadmap for a white-label fine art printing platform, a
 - **AI-native development:** Claude Code, Codex and Cursor for prototyping, implementation, testing and iteration.
 - **Games & interactive products:** Unity, C# and Firebase integration, from prototyping and gameplay systems through testing and commercial release.
 - **Development & delivery:** Git, GitHub, Vercel, automated testing and deployment workflows.
+
 **Platforms, data & analytics**
 - **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
 - **Infrastructure & data systems:** AWS, SQL, PostgreSQL, MongoDB, Redis and Elasticsearch.
 - **Analytics & decision support:** Metabase, Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
+
 **Earlier full-stack work (Codaisseur, 2019)**  
 Angular, Vue, Node.js/Express, GraphQL and WebSockets.
  
