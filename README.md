@@ -81,7 +81,7 @@ Owned product vision and roadmap for a white-label fine art printing platform, a
 **Platforms, data & analytics**
 - **APIs & integrations:** REST APIs, partner SDKs, OpenRTB bidding and OCPI.
 - **Infrastructure & data systems:** AWS, SQL, PostgreSQL, MongoDB, Redis and Elasticsearch.
-- **Analytics & decision support:** Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
+- **Analytics & decision support:** Metabase, Looker and Tableau for data monitoring, dashboards, reporting and data-informed product decisions.
 **Earlier full-stack work (Codaisseur, 2019)**  
 Angular, Vue, Node.js/Express, GraphQL and WebSockets.
  
