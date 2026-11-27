@@ -33,21 +33,11 @@ Personally built in Unity/C#, using Claude Code and Cursor to accelerate develop
  
 *Game source is private.*
  
-### 🖼️ Giclée Club: intelligent fine art printing
- 
-**Next.js · React · TypeScript · Image Processing · AI Product Development**
- 
-A technology-driven fine art printing platform combining digital workflows, artwork validation and museum-quality printing.
- 
-Built a browser-based preflight tool that analyses artwork metadata, checks technical print requirements and calculates compatible print sizes.
- 
-**[Giclée Club website](https://www.gicleeclub.com)**  
-*Commercial platform work, not an open-source portfolio project.*
- 
 ## 💻 More things I've built
  
 | Project | Description | Links |
 |---|---|---|
+| **Giclée Club** | Fine-art printing platform built with Next.js, React and TypeScript, featuring browser-based artwork preflight, metadata validation and compatible print-size calculations. | [Website](https://www.gicleeclub.com) |
 | **Studio Betonika** | Independent game studio website with custom interactive experiences and Dvor trailer integration. | [Website](https://studiobetonika.com) · [Code](https://github.com/alex-severino/studiobetonika) |
 | **Digitangels** | Website for an independent brand, design and digital product consultancy, built with Next.js. | [Website](https://digitangels.com) · [Code](https://github.com/alex-severino/digitangels) |
 | **Designwise** | Digital design education experience within the Digitangels platform. | [Website](https://digitangels.com/designwise) |
